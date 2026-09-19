@@ -84,16 +84,14 @@ Meu nome é Ana Beatriz Porcaro, tenho 18 anos e moro em Pedreira, São Paulo. A
   />
 </p>
 
-#
+###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abiapcr/abiapcr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abiapcr/abiapcr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abiapcr/abiapcr/output/pacman-contribution-graph.svg">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abiapcr/abiapcr/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abiapcr/abiapcr/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abiapcr/abiapcr/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-#
+###
 
 
