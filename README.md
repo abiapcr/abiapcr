@@ -82,5 +82,18 @@ Meu nome é Ana Beatriz Porcaro, tenho 18 anos e moro em Pedreira, São Paulo. A
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiapcr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+#
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abiapcr/abiapcr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abiapcr/abiapcr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abiapcr/abiapcr/output/pacman-contribution-graph.svg">
+</picture>
+
+#
+
+
