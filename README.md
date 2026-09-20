@@ -65,11 +65,7 @@ Meu nome é Ana Beatriz Porcaro, tenho 18 anos e moro em Pedreira, São Paulo. A
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-#
-
-<h2 align="center">📊 GitHub Stats</h2>
+### align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=abiapcr&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff" />
