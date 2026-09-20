@@ -67,26 +67,20 @@ Meu nome é Ana Beatriz Porcaro, tenho 18 anos e moro em Pedreira, São Paulo. A
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=abiapcr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+#
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiapcr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
 
-‹div align="center"›
-<img src="https://nirzak-streak-stats.vercel.app/?user-abiapcr&theme-transparent&hide_border=true"/>
-<img src="https://github-contributor-stats.vercel.app/api?username=abiapcr&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abiapcr&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abiapcr&theme=transparent&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&sideLabels=ffffff&dates=ffffff" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=abiapcr&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" />
+</div>
 
 ###
 
