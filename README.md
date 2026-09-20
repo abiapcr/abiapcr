@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=8a2be2&size=35&center=true&vCenter=true&width=1000&lines=++Bem-Vindos,+Ao+Meu+Perfil!++)](https://git.io/typing-svg)
 <p align="center">
-    <img scr=".github/workflows/ANA BEATRIZ.gif" />
+    <img src=".github/workflows/ANA BEATRIZ.gif" />
 </p>
 
 # 👩🏻‍💻 Ana Beatriz
