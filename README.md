@@ -16,17 +16,15 @@ Meu nome é Ana Beatriz Porcaro, tenho 18 anos e moro em Pedreira, São Paulo. A
         <img 
             alt="Localização Pedreira-SP" 
             title="Localização Pedreira-SP" 
-            src="https://custom-icon-badges.demolab.com/badge/Pedreira-SP?style=for-the-badge&color=67A007&labelColor=488207&logo=location&logoColor=white""
+            src="https://custom-icon-badges.demolab.com/badge/Pedreira-SP?style=for-the-badge&color=67A007&labelColor=488207&logo=location&logoColor=white"
         />
-    </a>
-    <a href="https://github.com/abiapcr?tab=repositories&sort=stargazers">
+    </a><a href="https://github.com/abiapcr?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/abiapcr?color=E6B400&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas"
         />
-    </a>
-    <a href="https://github.com/abiapcr?tab=followers">
+    </a><a href="https://github.com/abiapcr?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
