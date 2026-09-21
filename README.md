@@ -78,21 +78,17 @@ Olá! Eu sou **Ana Beatriz Porcaro**, tenho 18 anos e sou de **Pedreira, São Pa
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
+<div align="center">
   <img
     src="https://streak-stats.demolab.com/?user=abiapcr&theme=transparent&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"
-    width="450"
+    width="400"
     alt="GitHub Streak"
-  />
-
-  &nbsp;&nbsp;
-
-  <img
+  /><img
     src="https://raw.githubusercontent.com/abiapcr/abiapcr/languages-output/languages.svg"
-    width="320"
+    width="300"
     alt="Most Used Languages"
   />
-</p>
+</div>
 
 <br>
 
