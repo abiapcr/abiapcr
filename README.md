@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=8a2be2&size=35&center=true&vCenter=true&width=1000&lines=++Bem-Vindos,+Ao+Meu+Perfil!++)](https://git.io/typing-svg)
 
 <p align="center">
-    <img src=".github/workflows/abiapcr.gif" />
+  <img src=".github/workflows/abiapcr.gif" />
 </p>
 
 # 👩🏻‍💻 Ana Beatriz
@@ -16,16 +16,13 @@ Olá! Eu sou **Ana Beatriz Porcaro**, tenho 18 anos e sou de **Pedreira, São Pa
 
 🚀 Busco minha **primeira oportunidade de estágio na área de Tecnologia**, onde possa colocar meus conhecimentos em prática, aprender com novos desafios e contribuir para projetos reais.
 
-
 <p align="left">
-<a href="https://www.google.com/maps/search/?api=1&query=Pedreira%2C+SP"><img src="https://custom-icon-badges.demolab.com/badge/Pedreira-SP?style=for-the-badge&color=67A007&labelColor=488207&logo=location&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/abiapcr"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=084C8D&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:anabiaporcaro@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?style=for-the-badge&labelColor=B3261E&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;<a href="https://github.com/abiapcr?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/abiapcr?color=E6B400&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas"></a>&nbsp;&nbsp;<a href="https://github.com/abiapcr?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/abiapcr?color=8A2BE2&labelColor=6A1BB5&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"></a>
+  <a href="https://www.google.com/maps/search/?api=1&query=Pedreira%2C+SP"><img src="https://custom-icon-badges.demolab.com/badge/Pedreira-SP?style=for-the-badge&color=67A007&labelColor=488207&logo=location&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/abiapcr"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=084C8D&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:anabiaporcaro@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?style=for-the-badge&labelColor=B3261E&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;<a href="https://github.com/abiapcr?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/abiapcr?color=E6B400&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas"></a>&nbsp;&nbsp;<a href="https://github.com/abiapcr?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/abiapcr?color=8A2BE2&labelColor=6A1BB5&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"></a>
 </p>
-
-
 
 ---
 
-<h2 align="center">🤖 Linguagens e Tecnologias</h2>
+<h2 align="center">💻 Tecnologias</h2>
 
 <p align="center">
   <img
@@ -64,9 +61,9 @@ Olá! Eu sou **Ana Beatriz Porcaro**, tenho 18 anos e sou de **Pedreira, São Pa
 </p>
 
 <p align="center">
-  <strong>Portfólio pessoal desenvolvido com HTML, CSS e JavaScript.</strong>
+  <strong>Meu primeiro projeto pessoal desenvolvido com HTML, CSS e JavaScript.</strong>
   <br>
-  Um espaço para apresentar minha trajetória, conhecimentos e projetos.
+  Um espaço para apresentar minha trajetória, conhecimentos e evolução na área de tecnologia.
 </p>
 
 <p align="center">
@@ -75,33 +72,33 @@ Olá! Eu sou **Ana Beatriz Porcaro**, tenho 18 anos e sou de **Pedreira, São Pa
   <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
 
-
-
 ---
+
 
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-<img src="https://streak-stats.demolab.com/?user=abiapcr&theme=transparent&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img
+    src="https://streak-stats.demolab.com/?user=abiapcr&theme=transparent&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    height="165"
+    alt="GitHub Streak"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiapcr&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2&bg_color=00000000&langs_count=5"
+    height="165"
+    alt="Most Used Languages"
+  />
 
 </div>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/abiapcr/abiapcr/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
+<br>
 
 <p align="center">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abiapcr/abiapcr/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abiapcr/abiapcr/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abiapcr/abiapcr/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
+  <img
+    src="https://raw.githubusercontent.com/abiapcr/abiapcr/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+    alt="Pac-Man contribution graph"
+  />
 </p>
