@@ -88,6 +88,14 @@ Olá! Eu sou **Ana Beatriz Porcaro**, tenho 18 anos e sou de **Pedreira, São Pa
 
 </div>
 
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/abiapcr/abiapcr/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <p align="center">
 
 <picture data-importer="pacman">
