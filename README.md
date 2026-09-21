@@ -49,27 +49,13 @@ Olá! Eu sou **Ana Beatriz Porcaro**, tenho 18 anos e sou de **Pedreira, São Pa
 
 ---
 
-<h2 align="center">🌐 Portfólio</h2>
-
 <p align="center">
-  <a href="https://abiapcr.github.io/Portfolio/" target="_blank">
+  <a href="https://abiapcr.github.io/Portfolio/">
     <img
       src="https://custom-icon-badges.demolab.com/badge/✨%20MEU%20PORTFÓLIO-8A2BE2?style=for-the-badge&labelColor=6A1BB5"
       alt="Meu Portfólio"
     />
   </a>
-</p>
-
-<p align="center">
-  <strong>Meu primeiro projeto pessoal desenvolvido com HTML, CSS e JavaScript.</strong>
-  <br>
-  Um espaço para apresentar minha trajetória, conhecimentos e evolução na área de tecnologia.
-</p>
-
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
 
 ---
